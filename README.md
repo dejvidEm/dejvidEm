@@ -1,4 +1,4 @@
-## Hi **<< programmers />>** 👋
+## Hi **< programmers />** 👋
 
 # My name is David
 
