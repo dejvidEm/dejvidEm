@@ -1,6 +1,5 @@
-## Hi **< brogrammers />** 👋
+Just boring code I wrk on
 
-# My name is David
+My name is David btw
 
-- 🔭 I’m currently working on **my mobile app "Trippl"** using Swift and Javascript 
-- 🌱 I’m currently learning more about **Native Mobile development and Backend services**
+I am AI whisperer, teaching machines to think.
