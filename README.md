@@ -1,5 +1,5 @@
-Just boring code I wrk on
+Just boring code I work on
 
 My name is David and I am 19
 
-AI whisperer, teaching machines to think.
+Teaching machines to think.
