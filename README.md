@@ -1,5 +1,5 @@
-Just boring code I work on
+Just code I work on
 
-My name is David and I am 19
+My name is David and I am 20
 
-Teaching machines to think.
+Making websites move
